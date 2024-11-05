@@ -1,5 +1,3 @@
-# Website-dinamis
-
 # Website Dinamis
 
 ## Halaman Home
